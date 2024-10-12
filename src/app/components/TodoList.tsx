@@ -151,7 +151,7 @@ const TodoList = () => {
       {/* Footer */}
       <footer className="bg-gradient-to-r from-black to-red-600 text-white py-6 text-center">
         <p className="text-lg sm:text-xl font-bold">
-          "Master Your Tasks, Master Your Time."
+             <q>Master Your Tasks, Master Your Time.</q>
           <br />
           <span className="text-red-300">© 2024 Todo App by Aqsa Gull.</span> All rights reserved.
         </p>
@@ -161,6 +161,8 @@ const TodoList = () => {
 };
 
 export default TodoList;
+
+
 
 
 
